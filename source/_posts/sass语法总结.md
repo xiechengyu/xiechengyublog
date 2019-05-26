@@ -1,7 +1,7 @@
 ---
 title: sass语法总结
 date: 2018-11-17 15:04:17
-tags: ["blog","Hexo"]
+tags: ["sass","css"]
 comments: true
 ---
 

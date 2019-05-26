@@ -1,5 +1,5 @@
 ---
-title: swiper的配置选项
+title: swiper的配置
 date: 2019-5-26 20:48:17
 tags: ["swiper"]
 comments: true

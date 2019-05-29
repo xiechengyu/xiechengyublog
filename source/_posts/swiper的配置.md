@@ -1,7 +1,7 @@
 ---
 title: swiper的配置
 date: 2019-5-26 20:48:17
-tags: ["swiper"]
+tags: ["swiper","javascript"]
 comments: true
 ---
 

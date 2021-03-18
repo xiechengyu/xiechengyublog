@@ -2,4 +2,4 @@
 
 地址是：https://xiechengyu.github.io/
 
-这是我博客的备用仓库
+这是我博客仓库

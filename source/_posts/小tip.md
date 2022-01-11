@@ -1,3 +1,16 @@
+---
+title: 小tip
+date: 2021-6-24 12:21:42
+tags: ["js"]
+comments: true
+---
+
+## 前言
+
+一些小tip
+
+<!--more-->
+
 ```js
 function getPersonInfo(one, two, three) {
   console.log(one);

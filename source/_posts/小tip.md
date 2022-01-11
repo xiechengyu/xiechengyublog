@@ -172,3 +172,16 @@ arr4.flat(Infinity);
 
 稀疏数组 对于没有内容的数组项, array 上的操作会跳过这些未初始化的'坑'.如：["1", empty × 2]
 
+
+
+
+
+子函数被外部使用父级环境将被保留
+
+
+
+promise的链式操作：
+
+每一个then都返回一个promise状态是fulfulied；当return一个promise时需等待改promise执行状态变为fulfulied或rejected
+
+如果是 `thenable` 对象，会将对象包装成promise处理，这与其他promise处理方式一样的
